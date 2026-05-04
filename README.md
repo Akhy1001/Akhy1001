@@ -1,4 +1,5 @@
 # Akhy
+![description](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6NTAxeTM4eTI1cW44c3NjOHpqdDBhdmF5emtncWpzdXdwcGx1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoBwYBdIztLgIYujMC/giphy.gif)
 ## 🛠️ Langages & Technologies
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
