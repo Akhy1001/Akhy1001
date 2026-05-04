@@ -4,7 +4,7 @@
 <h1 align="center">✦ Akhy </h1>
 
 <div align="center">
-  <img src="./pixel-art-GIF.gif" width="100%" />
+  <img src="./pixel-art-soleil.gif" width="100%" />
 </div>
 
 <div align="center">
