@@ -9,4 +9,4 @@
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhy1001&layout=compact&theme=dark&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhy1001&layout=compact&theme=dark&count_private=true&hide_border=true)
