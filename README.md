@@ -25,5 +25,5 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhy1001&layout=compact&theme=dark&langs_count=5)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhy1001&theme=dark)
 
