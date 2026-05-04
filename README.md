@@ -28,7 +28,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Akhy1001&theme=dark&locale=fr" />
 </div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Akhy1001&theme=dark&locale=fr)
-
-
