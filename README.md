@@ -27,3 +27,5 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhy1001&theme=dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Akhy1001&theme=dark&locale=fr)
+
