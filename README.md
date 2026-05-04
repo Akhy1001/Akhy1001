@@ -12,7 +12,10 @@
 
 ## ✦ Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akhy1001&theme=dark&locale=fr)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Akhy1001&theme=dark&locale=fr" />
+</div>
+
 
 
 <div align="center">
