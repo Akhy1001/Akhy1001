@@ -3,7 +3,7 @@
 ## ✦ Langages & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=qt,ts,cpp,figma,github,js,html,css,react,swift,docker,vite,angular" />
+  <img src="https://skillicons.dev/icons?i=qt,ts,cpp,figma,github,js,html,css,react,swift,docker,vite,angular,vscode,python,supabase" />
 </div>
 
 ## ✦ Stats
