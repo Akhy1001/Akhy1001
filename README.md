@@ -3,6 +3,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
+<h1 align="center">✦ À propos de moi</h1>
+
+- En formation en développement web, toujours en train d'apprendre
+- J'aime construire des projets concrets : planners, jeux, apps de gestion...
+- J'apprécie autant le front-end soigné que la logique back-end solide
+- Curieux, autonome et motivé à progresser chaque jour
+
 <div align="center">
   <img src="./pixel-art-soleil.gif" width="100%" />
 </div>
