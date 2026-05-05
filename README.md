@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="./pixel-art-soleil.gif" width="60%" />
+  <img src="./pixel-art-soleil.gif" width="100%" />
 </div>
 
 <div align="center">
