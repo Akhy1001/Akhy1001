@@ -2,7 +2,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
-Bonjour, moi c'est Anas ! Développeur passionné par la création de projets utiles et bien conçus.
+Bonjour, moi c'est Anas ! 
+
+Développeur passionné par la création de projets utiles et bien conçus.
 <div align="center">
   <img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhseDc0angyNDd3anZ3a2R4Yzd1cHVnZ2UwOWI4YnBlcDF0ajE0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif))" width="100%" />
 </div>
