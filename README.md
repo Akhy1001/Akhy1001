@@ -1,15 +1,20 @@
 <h1 align="center">✦ A.fz </h1>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
-Bonjour, moi c'est Anas ! 
 
-Développeur passionné par la création de projets utiles et bien conçus.
+<p align="center">
+  Bonjour, moi c'est <strong>Anas</strong> !<br>
+  Développeur passionné par la création de projets utiles et bien conçus.
+</p>
+
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhseDc0angyNDd3anZ3a2R4Yzd1cHVnZ2UwOWI4YnBlcDF0ajE0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif))" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhseDc0angyNDd3anZ3a2R4Yzd1cHVnZ2UwOWI4YnBlcDF0ajE0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="100%" />
 </div>
 
 <h1 align="center">✦ Langages & Technologies</h1>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
@@ -19,6 +24,7 @@ Développeur passionné par la création de projets utiles et bien conçus.
 </div>
 
 <h1 align="center">✦ Stats</h1>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
