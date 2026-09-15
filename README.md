@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhseDc0angyNDd3anZ3a2R4Yzd1cHVnZ2UwOWI4YnBlcDF0ajE0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif" width="100%" />
+ 
 </div>
 
 <h1 align="center">✦ Langages & Technologies</h1>
