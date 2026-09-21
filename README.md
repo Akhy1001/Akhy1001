@@ -15,22 +15,22 @@
   </a>
 </p>
 
-<h1 align="center">✦ Langages & Technologies</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=qt,ts,cpp,figma,github,js,html,css,react,swift,docker,vite,angular,vscode" />
-</div>
-
-<h1 align="center">✦ Stats</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akhy1001&theme=dark&locale=fr" />
-</div>
+```csharp
+namespace AboutMe
+{
+    public class Person
+    {
+        public string Name             { get; } = "Anas";
+        public string Location         { get; } = "Toulouse, France";
+        public string Education        { get; } = "Bachelor Concepteur Développeur Web Full Stack";
+        
+        public List<string> Languages  { get; } = new() { "TypeScript", "Swift", "C++", "JavaScript" };
+        
+        public List<string> CurrentlyLearning { get; } = new() 
+        {
+            "Next.js", "Supabase", "Docker"
+        };
+        
+        public string Goal { get; } = "Créer des projets utiles et bien conçus";
+    }
+}
