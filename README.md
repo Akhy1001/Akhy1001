@@ -19,11 +19,15 @@ namespace AboutMe
         public string Location         { get; } = "Toulouse, France";
         public string Education        { get; } = "Bachelor Concepteur Développeur Web Full Stack";
         
-        public List<string> Languages  { get; } = new() { "TypeScript", "Swift", "C++", "JavaScript" };
+        public List<string> Languages  { get; } = new() 
+        { 
+            "TypeScript", "JavaScript", "Swift", "C++", "HTML5", "CSS3", "SQL" 
+        };
         
-        public List<string> CurrentlyLearning { get; } = new() 
+        public List<string> Technologies { get; } = new() 
         {
-            "Next.js", "Supabase", "Docker"
+            "Next.js", "React", "React Native", "Angular", "Tailwind CSS", "Vite", 
+            "Node.js", "Express", "Supabase", "PostgreSQL", "Qt 6", "Git", "Vercel"
         };
         
         public string Goal { get; } = "Créer des projets utiles et bien conçus";
