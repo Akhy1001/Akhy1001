@@ -5,11 +5,6 @@
 </div>
 
 <p align="center">
-  Bonjour, moi c'est <strong>Anas</strong> !<br>
-  Développeur passionné par la création de projets utiles et bien conçus.
-</p>
-
-<p align="center">
   <a href="https://portfolio-five-orcin-41.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Mon_Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
